@@ -21,6 +21,10 @@ const Footer = () => {
             <Typography>Contact Us</Typography>
         </Link>
 
+        <Typography>
+          Devender &#169; 2022. All Rights Reserved.
+        </Typography>
+
     </div>
 
     <div>

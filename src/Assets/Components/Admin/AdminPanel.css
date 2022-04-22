@@ -49,7 +49,7 @@
     box-sizing: border-box;
   }
   
-  .adminPanelSkill {
+  /* .adminPanelSkill {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -65,7 +65,7 @@
     font: 400 1.5rem "Roboto", sans-serif;
     margin-right: 2vmax;
     color: rgba(24, 24, 24, 0.815);
-  }
+  } */
   
   .adminPanelFileUpload::-webkit-file-upload-button {
     width: 100%;
@@ -78,7 +78,7 @@
     color: white;
   }
   
-  .adminPanelAbout > fieldset {
+  /* .adminPanelAbout > fieldset {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -93,7 +93,7 @@
   .adminPanelAbout > fieldset > legend {
     margin: 2vmax;
     font: 400 2rem "Roboto";
-  }
+  } */
   
   .adminPanelContainer > form > a {
     background-color: #fafafa;
