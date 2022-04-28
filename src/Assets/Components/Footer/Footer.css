@@ -34,6 +34,7 @@
 }
 .footer > div > a:hover {
   color: crimson;
+  transition: 1s;
 }
 
 .footerContactBtn {
